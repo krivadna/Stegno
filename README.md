@@ -10,7 +10,7 @@
 
 **Military-grade steganographic tools for secure data embedding and extraction**
 
-[🚀 **Try Live Demo**](https://kalkikrivadna.com/steganography.html) | [📄 **File-to-Image Tool**](https://kalkikrivadna.com/pdf.html) | [🔗 **Full Toolkit**](https://kalkikrivadna.com/projects.shtml)
+[🚀 **Try Live Demo**](https://kalkikrivadna.com/stegno.html) | [📄 **File-to-Image Tool**](https://kalkikrivadna.com/pdf.html) | [🔗 **Full Toolkit**](https://kalkikrivadna.com/projects.shtml)
 
 </div>
 
