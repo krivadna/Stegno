@@ -10,7 +10,9 @@
 
 **Military-grade steganographic tools for secure data embedding and extraction**
 
-[🚀 **Try Live Demo**](https://kalkikrivadna.com/stegno.html) | [📄 **File-to-Image Tool**](https://kalkikrivadna.com/pdf.html) | [🔗 **Full Toolkit**](https://kalkikrivadna.com/cyberkalkitoolkit.php)
+[![Launch Steganography Lab](https://img.shields.io/badge/🔮_Launch_Stego_Lab-FF0088?style=for-the-badge&logoColor=white)](https://kalkikrivadna.com/stegno.html)
+[![Try File Embedding](https://img.shields.io/badge/📄_File_Embedding-00FF88?style=for-the-badge&logoColor=white)](https://kalkikrivadna.com/pdf.html)
+[![Explore Toolkit](https://img.shields.io/badge/🔗_Full_Toolkit-0088FF?style=for-the-badge&logoColor=white)](https://kalkikrivadna.com/cyberkalkitoolkit.php)
 
 </div>
 
@@ -114,14 +116,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-
-### 🚀 **Ready to Master Digital Stealth?**
-
-[![Launch Steganography Lab](https://img.shields.io/badge/🔮_Launch_Stego_Lab-FF0088?style=for-the-badge&logoColor=white)](https://kalkikrivadna.com/steganography.html)
-[![Try File Embedding](https://img.shields.io/badge/📄_File_Embedding-00FF88?style=for-the-badge&logoColor=white)](https://kalkikrivadna.com/pdf.html)
-[![Explore Toolkit](https://img.shields.io/badge/🔗_Full_Toolkit-0088FF?style=for-the-badge&logoColor=white)](https://kalkikrivadna.com/projects.shtml)
-
----
 
 **⭐ Star this repository if you find it useful! ⭐**
 
