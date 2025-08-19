@@ -53,9 +53,8 @@ The **Cyber Kalki Steganography Lab** is a comprehensive suite of advanced stega
 ## 🚀 Quick Start
 
 ### 🌐 **Web-Based Access** (No Installation Required)
-1. **Text/Code Embedding**: Visit [Steganography Lab Pro](https://kalkikrivadna.com/steganography.html)
+1. **Text/Code Embedding**: Visit [Steganography Lab Pro](https://kalkikrivadna.com/stegno.html)
 2. **File Embedding**: Access [File Steganography System](https://kalkikrivadna.com/pdf.html)
-3. **Full Toolkit**: Explore [Complete Tool Suite](https://kalkikrivadna.com/projects.shtml)
 
 ### ✨ **Instant Features**
 - ✅ **Zero Installation** - Works directly in your browser
@@ -64,75 +63,6 @@ The **Cyber Kalki Steganography Lab** is a comprehensive suite of advanced stega
 - ✅ **Secure Processing** - All operations happen client-side
 - ✅ **No Data Upload** - Files processed locally in your browser
 
----
-
-## 📋 Usage Examples
-
-### Basic Text Embedding
-```javascript
-// Example payload for steganography
-const classifiedData = {
-    'operation': 'quantum_stealth',
-    'coordinates': [40.7128, -74.0060],
-    'timestamp': '2024-08-16T12:00:00Z',
-    'agents': ['ALPHA-7', 'BRAVO-3'],
-    'payload': function() {
-        console.log('Mission data extracted successfully');
-        return 'Operation status: Active';
-    }
-};
-```
-
-### File Hiding Process
-1. **Select Cover Image** - Choose a high-resolution image for maximum capacity
-2. **Choose File to Hide** - Any file type supported (PDF, DOC, ZIP, etc.)
-3. **Configure Security** - Set encryption method and stealth level
-4. **Execute Embedding** - Process with real-time progress tracking
-5. **Download Result** - Receive steganographic image with hidden data
-
-### Extraction Process
-1. **Load Encoded Image** - Upload the steganographic image
-2. **Auto-detect Parameters** - System identifies encoding method
-3. **Extract Data** - Retrieve hidden information with integrity verification
-4. **Download Original** - Get the original file in perfect condition
-
----
-
-
-
-## 📊 Performance Metrics
-
-| Feature | Basic Mode | Advanced Mode | File Mode |
-|---------|------------|---------------|-----------|
-| **Max Capacity** | 25% of image | 90% of image | 75% of image |
-| **Processing Speed** | Instant | 2-5 seconds | 5-15 seconds |
-| **Compression Ratio** | 15-30% | 20-40% | 25-45% |
-| **Detection Resistance** | Basic | Advanced | Military-grade |
-| **Mobile Support** | Full | Full | Full |
-
----
-
-## 🛡️ Security Considerations
-
-### Encryption Standards
-- **XOR Cipher**: Fast, lightweight encryption for basic use cases
-- **AES-256**: Industry-standard symmetric encryption
-- **Custom Algorithms**: Proprietary quantum-inspired ciphers
-
-### Anti-Detection Measures
-- **Statistical Camouflage**: Maintains natural image histogram distribution
-- **Entropy Preservation**: Prevents suspicious randomness patterns  
-- **Metadata Scrubbing**: Removes steganographic signatures from output
-- **Visual Similarity**: >99.9% PSNR maintaining imperceptible changes
-
-### 🔒 **Privacy & Security**
-- **🔐 Client-Side Processing**: All operations happen in your browser - no data sent to servers
-- **🚫 Zero Data Collection**: No tracking, analytics, or data harvesting
-- **🛡️ Offline Capable**: Works without internet after initial page load
-- **💾 Local Processing**: Files never leave your device during encoding/decoding
-- **🗑️ Auto-Cleanup**: Temporary data automatically cleared from browser memory
-
----
 
 
 ## 🌟 Advanced Use Cases
@@ -143,11 +73,6 @@ const classifiedData = {
 - **Incident Response**: Secure communication channels during breaches
 - **Penetration Testing**: Steganographic payload delivery systems
 
-### 🏢 Enterprise Solutions  
-- **Document Security**: Protect confidential business information
-- **Intellectual Property**: Safeguard proprietary research and development
-- **Compliance**: Meet data protection and privacy regulations
-- **Backup & Recovery**: Covert backup solutions for critical data
 
 ### 🔬 Research & Academia
 - **Data Privacy Studies**: Analyze steganographic detection methods
@@ -155,7 +80,6 @@ const classifiedData = {
 - **Digital Rights Management**: Content protection and watermarking
 - **Information Theory**: Explore capacity and security trade-offs
 
----
 
 
 ## 📜 License & Legal
